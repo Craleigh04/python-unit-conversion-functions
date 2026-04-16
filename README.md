@@ -29,3 +29,9 @@ This project reflects early Python development skills and demonstrates an unders
 
 ## Course Context
 Developed as part of coursework in ISIN 306 Security Informatics, where function creation, modular design, and Python scripting were key learning outcomes.
+
+## How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Craleigh04/python-unit-conversion-functions.git
